@@ -1,0 +1,6 @@
+@RideService.Api_HostAddress = http://localhost:5155
+
+GET {{RideService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
